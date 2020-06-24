@@ -11,5 +11,8 @@ package ec.edu.ec.servicio;
  */
 public class Test1 {
     
-    
+    private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 }
